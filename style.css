@@ -1,0 +1,68 @@
+
+body {
+    background: linear-gradient(to right, #20bf55, #01baef);
+    color: white;
+ 
+   
+}
+
+.list-item{
+    margin-top: 10%;
+}
+
+
+#content{
+    list-style: none;
+   
+    
+}
+
+#content_meal{
+    list-style: none;
+}
+
+.title{
+    justify-content: center;
+    text-align: center;
+    
+}
+
+#content_drink{
+    list-style: none;
+}
+
+#content_ingredient{
+    list-style: none;
+}
+
+.closecollection{
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+.closecollection2{
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+#drink-menu{
+
+    width: 100%;
+}
+
+
+#drink-menu img{
+    width: 500px;
+    height: auto;
+}
+
+.list{
+    margin-left: 30%;
+    width: 50%;
+}
