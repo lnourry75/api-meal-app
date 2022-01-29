@@ -11,3 +11,7 @@ I wanted to put the youtube videos directly on the site in iframe but I had a pr
 For the cocktail API the method is the same with a form that displays all the cocktails that contain the selected ingredient.
 However when you click on the image or the title of the cocktail you have access to the category of the cocktail, the ingredients necessary to make it, the instructions for his composition and an indicator to know if the cocktail is alcoholic or not.
 There is also a cross to return to the display of all the cocktails.
+
+
+
+Good Tasting !  :D
